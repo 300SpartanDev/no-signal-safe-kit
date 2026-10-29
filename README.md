@@ -70,3 +70,5 @@ No Signal Safe Kit is free, and its life-saving features will always stay free. 
 ---
 
 <sub>⚠️ No Signal Safe Kit gives general first aid guidance and does not replace professional medical care. In an emergency, always call your local emergency number first.</sub>
+
+<sub>© 2026 300SpartanDev. All rights reserved. The app is free to download, use and share as the original APK from this page. The app, name, logo, videos and content may not be copied, modified or redistributed in any other form without permission.</sub>
